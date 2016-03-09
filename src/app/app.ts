@@ -7,6 +7,7 @@ import {LicenseplateForm} from "./components/licenseplateForm";
   selector: 'app',
   directives: [LicenseplateForm],
   template: `
+  lk
   <plate-form></plate-form>
   `
 })
